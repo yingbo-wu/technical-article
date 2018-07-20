@@ -130,6 +130,14 @@
 > java 表达式解析框架
 > https://blog.csdn.net/a363722188/article/details/47338757 <br>
 
+> Java的LockSupport.park()实现分析
+> https://blog.csdn.net/hengyunabc/article/details/28126139 <br>
+
+> Java并发编程：CountDownLatch、CyclicBarrier和 Semaphore
+> http://www.importnew.com/21889.html <br>
+
+> 从Java视角理解系统结构(一)CPU上下文切换
+> http://ifeve.com/java-context-switch/ <br>
 
 
 
