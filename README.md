@@ -142,3 +142,5 @@
 > 并发编程网
 > http://ifeve.com/ <br>
 
+> 监视器–JAVA同步基本概念
+> http://ifeve.com/monitors-java-synchronization-mechanism/ <br>
