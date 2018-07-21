@@ -147,3 +147,6 @@
 
 > java-interview
 > https://github.com/crossoverJie/Java-Interview <br>
+
+> Java JVM 内存泄露——全解析和处理办法
+> https://www.cnblogs.com/ixenos/p/5674702.html?utm_source=itdadao&utm_medium=referral <br>
