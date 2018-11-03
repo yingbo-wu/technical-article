@@ -1,3 +1,9 @@
+> 架构设计
+> https://blog.csdn.net/hguisu/article/details/78258430
+
+> 应用架构演进
+> http://www.sohu.com/a/138064703_467759
+
 > Saga的思想与实现
 > http://www.cnblogs.com/netfocus/p/3149156.html <br>
 
